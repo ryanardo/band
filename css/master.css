@@ -1,25 +1,44 @@
+.box {
+  padding: 4px;
+  margin-top: 10px;
+  border: 2px solid green;
+  padding: 4px;
+}
+
 .sidebar {
   float: right;
+  padding: 4px;
+  margin-top: 10px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: green;
 }
 
-.ul1 {
-  text-align: right;
-  list-style: lower-greek;
-}
-
-.album_column {
-  column-count: 1;
-  float: none;
-}
-
-.left {
-  float: left;
-}
-
-.middle {
-  float: middle;
-}
-
-.right {
+.column_right {
   float: right;
+  padding: 4px;
+  margin-top: 10px;
+  border: 2px;
+  padding: 4px;
+}
+
+.column_left {
+  float: left;
+  padding: 4px;
+  margin-top: 10px;
+  border: 2px;
+  padding: 4px;
+}
+
+.album_covers {
+  float: left;
+  padding: 4px;
+  margin-top: 10px;
+  border: 2px;
+}
+
+img {
+  border: 2px solid green;
+  padding: 4px;
+
 }
