@@ -1,4 +1,25 @@
 .sidebar {
   float: right;
-  text-align: center;
+}
+
+.ul1 {
+  text-align: right;
+  list-style: lower-greek;
+}
+
+.album_column {
+  column-count: 2;
+  float: none;
+}
+
+.left {
+  float: left;
+}
+
+.middle {
+  float: middle;
+}
+
+.right {
+  float: right;
 }
